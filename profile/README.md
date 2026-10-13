@@ -1,1 +1,1 @@
-"# UNH MECC 2027" 
+# UNH MECC 2027
